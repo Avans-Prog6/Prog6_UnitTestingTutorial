@@ -1,3 +1,4 @@
-C:\Users\rogreen\documents\visual studio 2013\Projects\Calculator\Calculator.Tests\Fakes\Calculator.fakes : warning : Cannot generate stub for Calculator.Operation: type is a value type.
-C:\Users\rogreen\documents\visual studio 2013\Projects\Calculator\Calculator.Tests\Fakes\Calculator.fakes : warning : Cannot generate shim for Calculator.IRandom: type is an interface.
-C:\Users\rogreen\documents\visual studio 2013\Projects\Calculator\Calculator.Tests\Fakes\Calculator.fakes : warning : Cannot generate shim for Calculator.Operation: type is an enum.
+C:\Users\Stijn\Documents\GitHub\Avans-Prog6\Prog6_UnitTestingTutorial\Calculator Solution End\Calculator.Tests\Fakes\Calculator.fakes : warning : Cannot generate stub for Calculator.Operation: type is a value type.
+C:\Users\Stijn\Documents\GitHub\Avans-Prog6\Prog6_UnitTestingTutorial\Calculator Solution End\Calculator.Tests\Fakes\Calculator.fakes : warning : Cannot generate shim for Calculator.IRandom: type is an interface.
+C:\Users\Stijn\Documents\GitHub\Avans-Prog6\Prog6_UnitTestingTutorial\Calculator Solution End\Calculator.Tests\Fakes\Calculator.fakes : warning : Cannot generate shim for Calculator.Operation: type is an enum.
+C:\Users\Stijn\Documents\GitHub\Avans-Prog6\Prog6_UnitTestingTutorial\Calculator Solution End\Calculator.Tests\Fakes\Calculator.fakes : warning : Cannot generate shim for Calculator.ViewModelBase+<>c: type is not supported because of internal limitations.
