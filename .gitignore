@@ -1,8 +1,1 @@
-/node_modules/
-TestResults
-*.suo
-*.user
-_ReSharper.*
-bin
-obj
-packages
+‘.bundlen.sass-cachen.vendorn_site’
